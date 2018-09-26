@@ -1,3 +1,5 @@
+##this template mainly used for java8
+
 ##set coredump directory, run it manually
 #ulimit -c unlimited
 #echo "/{MYLOGDIR}/coredump.%p" > /proc/sys/kernel/core_pattern
